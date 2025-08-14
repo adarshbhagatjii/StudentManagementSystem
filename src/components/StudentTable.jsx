@@ -20,7 +20,7 @@ const StudentTable = ({ students, onEdit, onDelete }) => {
   const getPercentageColor = (percentage) => {
     if (percentage >= 60) return 'text-green-600';
     if (percentage >= 50) return 'text-blue-600';
-    if (percentage >= 40) return 'text-yellow-600';
+    if (percentage >= 33) return 'text-yellow-600';
     return 'text-red-600';
   };
 

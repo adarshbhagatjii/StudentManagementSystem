@@ -63,7 +63,7 @@ const StudentForm = ({ onSubmit, editingStudent, onCancelEdit }) => {
      if (hasFailedSubject) return 'Fail';
     if (percentage >= 60) return 'First Division';
     if (percentage >= 50) return 'Second Division';
-    if (percentage >= 40) return 'Third Division';
+    if (percentage >= 33) return 'Third Division';
     return 'Fail';
   };
 
