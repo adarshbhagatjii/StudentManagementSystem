@@ -33,8 +33,8 @@ https://student-management-system-git-main-adarshbhagatjiis-projects.vercel.app
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-data-ui.git
-cd student-data-ui
+git clone https://github.com/adarshbhagatjii/StudentManagementSystem.git
+cd student-data-app
 ```
 
 ### 2. Install Dependencies
